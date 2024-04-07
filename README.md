@@ -70,47 +70,81 @@ You should restructure the headings below to match the order they appear in your
 ### 2.1. Moving Platforms
 Moving platforms are introduced almost immediately in my level being first seen in the first room. Moving platforms are initially placed strategically to teach players the minimal level of skill required to complete the level. As my level progresses the timings and placement change increasing the difficulty.
 
-![Storyboard_MovingPlatform1!](DocImages/Storyboard_MovingPlatform1.png)
+![Storyboard_MovingPlatform!](DocImages/Storyboard_MovingPlatform.png)
 
 ### 2.2. Checkpoints
+My level introduces checkpoints reletively quickly being near my first enemy so that when players actually do die they can quickly respawn and try again. My checkpoints are placed strategically before areas of big challenge to reduce frustration in players.
 
-
+![Storyboard_Checkpoints!](DocImages/Storyboard_Checkpoints.png)
 
 ### 2.3. Chompers
+Chompers are the first enemy players encounter in my level as they have reletively simple attack patterns not giving players much challenge at the beginning but when paired with spitters can become more challenging
+
+![Storyboard_Chompers!](DocImages/Storyboard_Chompers.png)
 
 ### 2.4. Health Pickups
+Health Pickups are an optional choice for the player and cannot be picked up unless the player has sustained at least 1 heart of damage and can only be used to recover 1 heart of damage
 
-### 2.5. Keys
+![Storyboard_HealthPickups!](DocImages/Storyboard_HealthPickups.png)
 
-### 2.6. Acid
+### 2.5. Acid
+Acid is a damaging liquid that does can kill players but it is also a useful tool that I have used to create a situation where players have to think to find a way around it.
+
+![Storyboard_Acid!](DocImages/Storyboard_Acid.png)
+
+### 2.6. Keys
+Keys are an essential item that must be collected in order to complete the level. But they also lead players through the level without directly telling them where to go.
+
+![Storyboard_Keys!](DocImages/Storyboard_Keys.png)
 
 ### 2.7. Passthrough Platforms
+Passthrough Platforms are used to create seperation between enviroments they help to add drama to the games atmosphere as players wonder what is below or above.
+
+![Storyboard_PassthroughPlatforms!](DocImages/Storyboard_PassthroughPlatforms.png)
 
 ### 2.8. Spikes
+Spikes are a dangerous object that damages the player posing as a obsticle for players to use skill to avoid. They also add to the tension when there are other enemies around.
+
+![Storyboard_Spikes!](DocImages/Storyboard_Spikes.png)
 
 ### 2.9. Spitters
+Spitters are an enemy that use a long range projectile as their main damaging attack. In my game I have sized up the size of the spit balls that they shoot to add to the challenge they are a great tool to add difficulty to a situation.
+
+![Storyboard_Spitters!](DocImages/Storyboard_Spitters.png)
 
 ### 2.10. Weapon Pickup (Gun)
+The Gun weapon is the players long range attack and travels in a linear movement. My level doesnt specifically utilise the gun shooting mechanic but players can shoot enemies from a distance to reduce the chance of taking damage.
+
+![Storyboard_Gun!](DocImages/Storyboard_Gun.png)
 
 ### 2.11. Weapon Pickup (Staff)
+The Staff weapon is the players short range attack and travels in a close swinging movement. My level utilises the staff mechanic as players can kill enemies from close up as it is faster than shooting.
+
+![Storyboard_Staff!](DocImages/Storyboard_Staff.png)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
 
 ### 3.2. Level Map – Section 1
 
+![Level1!](DocImages/Level1.png)
+
 ### 3.3.	Level Map – Section 2
 
+![Level2!](DocImages/Level2.png)
+
 ### 3.4.	Level Map – Section 3
+
+![Level3!](DocImages/Level3.png)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+
+
 
 ## Generative AI Use Acknowledgement
 
