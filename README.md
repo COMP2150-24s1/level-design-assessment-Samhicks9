@@ -26,9 +26,9 @@ As players progress, the environment transitions to another cave setting. Here p
 
 Players have to then figure out a small simple puzzle as there is a small platform of green grass leading their attention and giving direction without explicitly telling them where to go. After getting up from the small platforming puzzle they reach a new above ground area encouraging players to explore as well and fight some more enemies putting their skills together. As well as discovering a pool of Acid, environmental storytelling in the form of a closed alien door and alien block. There is a moving switch where players have to time their movement to open it and then if they pass through the door they will realize they cannot make the jump yet leading them to go back and push a block from a higher platform down into the acid to make it across.
 
-Image 1:
+![Discovery1!](DocImages/Discovery1.png)
 
-Image 2:
+![Discovery2!](DocImages/Discovery2.png)
 
 ### 1.2. Drama
 
@@ -36,9 +36,9 @@ My level's Drama intensity curve starts low in the underground cave with a focus
 
 The intensity increases as players explore the level further. The frequency of enemy encounters rises, and faster, more agile enemies like spitters are introduced. Environmental hazards like spike traps are strategically placed to force players into quick decisions and test their platforming skills under pressure. However, moments of relief are interwoven throughout. Health pickups and checkpoints, providing opportunities to recover and strategize before continuing.
 
-Image 1:
+![Drama1!](DocImages/Drama1.png)
 
-Image 2:
+![Drama2!](DocImages/Drama2.png)
 
 ### 1.3. Challenge
 
@@ -46,11 +46,19 @@ The main challenges players face are platforming navigation, enemy combat, and o
 
 Challenging enemy encounters are interspersed with platforming sections, forcing players to switch between skill sets. Early enemy encounters allow players to learn basic combat mechanics. Later enemies' numbers increase, requiring the use of dodging and jumping combined with combat to defeat them. To encourage exploration, keys are given after a challenge is achieved to reward players for their efforts.
 
+![Boss1!](DocImages/Boss1.png)
+
+![Spitter1!](DocImages/Spitter1.png)
+
 ### 1.4. Exploration
 
 The level design encourages exploration through a combination of blocked areas, collectible items, and visually distinct landmarks. These rewards entice players to seek out hidden areas and experiment with the environment. Additionally, collectible items like keys are scattered throughout the level. These keys are integral to the gameplay as they progress the in-game narrative but also are necessary for players to finish the level offering a sense of gradual completion and encourage players to thoroughly explore every nook and cranny.
 
 The level is divided into three distinct sections:The beginning cave. Puzzle plains and a final big boss chamber. Each section possesses a unique visual aesthetic, distinct color palettes,  background elements and architecture. Underground sections have a lighter coloured dirt to them with dead grass and green grass areas represent the above ground sections  This creates memorable landmarks that players can use to orient themselves and guide their exploration.
+
+![Exploration1!](DocImages/Exploration1.png)
+
+![Ship1!](DocImages/Ship1.png)
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
@@ -59,9 +67,14 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+### 2.1. Moving Platforms
+Moving platforms are introduced almost immediately in my level being first seen in the first room. Moving platforms are initially placed strategically to teach players the minimal level of skill required to complete the level. As my level progresses the timings and placement change increasing the difficulty.
+
+![Storyboard_MovingPlatform1!](DocImages/Storyboard_MovingPlatform1.png)
 
 ### 2.2. Checkpoints
+
+
 
 ### 2.3. Chompers
 
@@ -69,7 +82,7 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.5. Keys
 
-### 2.6. Moving Platforms
+### 2.6. Acid
 
 ### 2.7. Passthrough Platforms
 
