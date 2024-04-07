@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
+### Name: [Samuel Hicks]
+### Student number: [47434740] 
 
 This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
 
@@ -19,16 +19,38 @@ Example:
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+
+My level design facilitates learning through a combination of visual cues, environmental storytelling, and gradual introduction of mechanics. Players begin in an underground cave area with an alien statue and a platform guiding them along the initial path. This visually distinct section introduces basic platforming mechanics like jumping and running. On top of the opening sits pink spikes and a moving platform moving through the opening leading players to try new things. This reinforces learning through a non-intrusive method.
+
+As players progress, the environment transitions to another cave setting. Here players encounter their first enemy as well as a weapon pickup totem and a health recovery which act as the introduction of the weapons tutorial allowing them to test their new items on an enemy.
+
+Players have to then figure out a small simple puzzle as there is a small platform of green grass leading their attention and giving direction without explicitly telling them where to go. After getting up from the small platforming puzzle they reach a new above ground area encouraging players to explore as well and fight some more enemies putting their skills together. As well as discovering a pool of Acid, environmental storytelling in the form of a closed alien door and alien block. There is a moving switch where players have to time their movement to open it and then if they pass through the door they will realize they cannot make the jump yet leading them to go back and push a block from a higher platform down into the acid to make it across.
+
+Image 1:
+
+Image 2:
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+
+My level's Drama intensity curve starts low in the underground cave with a focus on exploration and basic platforming. As players enter the extended underground, the enemy encounters become more frequent. Initially, players face slow-moving chompers that telegraph their attacks clearly. This allows players to learn enemy attack patterns and practice basic combat mechanics.
+
+The intensity increases as players explore the level further. The frequency of enemy encounters rises, and faster, more agile enemies like spitters are introduced. Environmental hazards like spike traps are strategically placed to force players into quick decisions and test their platforming skills under pressure. However, moments of relief are interwoven throughout. Health pickups and checkpoints, providing opportunities to recover and strategize before continuing.
+
+Image 1:
+
+Image 2:
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+
+The main challenges players face are platforming navigation, enemy combat, and overcoming environmental hazards. The level is designed with a balanced difficulty curve introducing new mechanics alongside forgiving environments for practice. For example, the initial jump sections are generous in terms of platform spacing, allowing players to master basic jumping. As the level progresses platforms become narrower and require more precise jumps.
+
+Challenging enemy encounters are interspersed with platforming sections, forcing players to switch between skill sets. Early enemy encounters allow players to learn basic combat mechanics. Later enemies' numbers increase, requiring the use of dodging and jumping combined with combat to defeat them. To encourage exploration, keys are given after a challenge is achieved to reward players for their efforts.
 
 ### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
+The level design encourages exploration through a combination of blocked areas, collectible items, and visually distinct landmarks. These rewards entice players to seek out hidden areas and experiment with the environment. Additionally, collectible items like keys are scattered throughout the level. These keys are integral to the gameplay as they progress the in-game narrative but also are necessary for players to finish the level offering a sense of gradual completion and encourage players to thoroughly explore every nook and cranny.
+
+The level is divided into three distinct sections:The beginning cave. Puzzle plains and a final big boss chamber. Each section possesses a unique visual aesthetic, distinct color palettes,  background elements and architecture. Underground sections have a lighter coloured dirt to them with dead grass and green grass areas represent the above ground sections  This creates memorable landmarks that players can use to orient themselves and guide their exploration.
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
