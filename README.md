@@ -144,7 +144,15 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
+Iterative Design was essential when I was creating my level as when I was starting to think out some ideas for my level I prototyped some a couple of designs again until I found one I liked as well as the premise for some parts I created it and then after creating the parts I liked I tried it out to see if it was fun to play. Further on I continued to flesh out my levels building on it as I tried it out questioning was it too hard for players at the beginning or was it too easy, Iterating every time I thought of something I liked more.
 
+![Pushes!](DocImages/Pushes.png)
+
+The part that I made the most changes to was the second part of my first level as I kept having ideas for new fun puzzle ideas that players could figure out. Specifically the floating cube in the acid after players discover how to open the door that is locked and can only be opened through a switch that moves in and out of the level utilising timing to be able to press it.
+
+![Discovery2!](DocImages/Discovery2.png)
+
+I recycled the same creative process throughout all of the level sections in my level as I plotted enemies and then tried it to see how was then continue to iterating throughout the whole process.
 
 ## Generative AI Use Acknowledgement
 
